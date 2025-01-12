@@ -32,7 +32,7 @@ const BookDashboard = () => {
         </div>
       )}
       <aside className="sidebar">
-        <h1>Book Dashboard</h1>
+        <h1>Dashboard Livre</h1>
         <button>Manage Books</button>
       </aside>
       <main className="main-content">
